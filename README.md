@@ -7,6 +7,6 @@ Se realizaron varias mejoras tanto de codigo como visuales como el apartado de l
 
 De resto aparte de lo que se pedia en la actividad *(como integrar los colores de texto desde el archivo CSS)* hice algunas clases para mejorar el apartado visual, tardando en adaptarme al principio pero fluyendo como nunca durante el resto del proceso, de hecho revisando el CSS se puede notar un poco de evoluvion creativa de mi parte al intentar centrar una imagen para que al achicar la ventana no quedara en el mismo lugar y la imagen se moviera con este con *"margin-left: 33% & margin-right:33%"* que luego evolucione a crear listas horizontales como *"ul {display: flex; ... justify-content: space-around;}"* para mas automatizacion.
 
-Para ayuda use Google y youtube, evite lo maximo para usar IA.
+Para ayuda use el material de estudio dado en clases, Google y Youtube, evite lo maximo para usar IA.
 
 26/03/2025
